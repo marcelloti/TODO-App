@@ -7,8 +7,9 @@ TODO List application written in all the programming languages I've worked with
 
 So far "TODO App's":
 
-- Free Pascal (Lazarus)
-- DOS (CMD / MS-DOS "like" bat file)
+- Free Pascal (Lazarus)<br/>
+- DOS (CMD / MS-DOS "like" bat file)<br/>
+- C# (Desktop)<br/>
 
 ## Coming Soon
 - PHP 5,7,8<br/>
@@ -23,7 +24,7 @@ So far "TODO App's":
     - Restify<br/>
 - VB6<br/>
 - Asp.net (C#)<br/>
-- C# (Desktop)<br/>
+
 - Shell Script<br/>
 - C<br/>
 - C++<br/>

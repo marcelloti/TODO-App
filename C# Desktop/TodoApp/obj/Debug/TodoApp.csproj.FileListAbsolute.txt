@@ -1,0 +1,10 @@
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\bin\Debug\TodoApp.exe.config
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\bin\Debug\TodoApp.exe
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\bin\Debug\TodoApp.pdb
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\obj\Debug\TodoApp.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\obj\Debug\TodoApp.Properties.Resources.resources
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\obj\Debug\TodoApp.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\obj\Debug\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\obj\Debug\TodoApp.exe
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\obj\Debug\TodoApp.pdb
+C:\Users\Home\Desktop\TODO-App\C# Desktop\TodoApp\obj\Debug\TodoApp.mainForm.resources
