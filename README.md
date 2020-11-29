@@ -12,9 +12,14 @@ So far "TODO App's":
 - C# (Desktop)<br/>
 
 ## Coming Soon
+- Asp.net (C#)<br/>
+- Shell Script<br/>
 - PHP 5,7,8<br/>
     - CodeIgniter
     - Symfony
+- C<br/>
+- C++<br/>    
+- VB6<br/>
 - Node.JS<br/>
     - Electron<br/>
     - NestJS<br/>
@@ -22,9 +27,3 @@ So far "TODO App's":
     - Adonis<br/>
     - Express<br/>
     - Restify<br/>
-- VB6<br/>
-- Asp.net (C#)<br/>
-
-- Shell Script<br/>
-- C<br/>
-- C++<br/>
