@@ -8,7 +8,7 @@ TODO List application written in all the programming languages I've worked with
 So far "TODO App's":
 
 - Free Pascal (Lazarus)
-- Bat (MS-DOS bat file)
+- Bat (CMD / DOS bat file)
 
 ## Coming Soon
 - PHP 5,7,8<br/>
