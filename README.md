@@ -19,6 +19,8 @@ So far "TODO App's":
     - Symfony
 - C<br/>
 - C++<br/>    
+- Java<br/>
+- Python<br/>
 - VB6<br/>
 - Node.JS<br/>
     - Electron<br/>
